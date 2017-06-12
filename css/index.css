@@ -1,0 +1,22 @@
+html{
+	overflow-x:hidden;
+}
+body{
+	font-family: "微软雅黑";
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	overflow-x:hidden;
+}
+.banner img{
+	width: 100%;
+}
+.content{
+	font-size: 0.75rem;
+	padding: 0.5rem;
+}
+.content h3{
+	font-size: 0.9rem;
+	padding: 1rem 0;
+	text-align: center;
+}
